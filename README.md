@@ -1,2 +1,2 @@
-# hello-world
-My first taste.
+＃你好，世界！
+第一次尝试。
