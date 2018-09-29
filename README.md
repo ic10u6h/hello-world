@@ -1,2 +1,5 @@
 ＃你好，世界！
-第一次尝试。
+
+Hi github!
+
+I'm going to start my journey.
